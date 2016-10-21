@@ -99,12 +99,12 @@ ContactDataServices.eventFactory = function(){
 ContactDataServices.translations = {
 // language / country / property
   en: {
-    gbr: {
+    GBR: {
       locality: "Town/City",
       province: "County",
       postalCode: "Post code"
     },
-    usa: {
+    USA: {
       locality: "City",
       province: "State",
       postalCode: "Zip code"
